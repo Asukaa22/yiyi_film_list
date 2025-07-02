@@ -5,5 +5,5 @@
 | 名称 | 年份 | 导演 | 观影日期 | 我的评分 | 豆瓣链接 | 夸克链接 |
 |------|------| ------ |----------|----------|----------|----------|
 | 唐人街 | 1974 | 罗曼·波兰斯基 | 2025.07.02 | ⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1293889/) | [夸克](https://pan.quark.cn/s/3b669e827c7a#/list/share) |
-| 浮草 | 1959 | 小津安二朗 | 2025.07.01 | ⭐⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1297841/)|[夸克](https://pan.quark.cn/s/3ab6cc9a1901#/list/share)|
+| 浮草 | 1959 | 小津安二郎 | 2025.07.01 | ⭐⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1297841/)|[夸克](https://pan.quark.cn/s/3ab6cc9a1901#/list/share)|
 ---
