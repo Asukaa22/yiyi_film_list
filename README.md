@@ -6,4 +6,5 @@
 |------|------| ------ |----------|----------|----------|----------|
 | 唐人街 | 1974 | 罗曼·波兰斯基 | 2025.07.02 | ⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1293889/) | [夸克](https://pan.quark.cn/s/3b669e827c7a#/list/share) |
 | 浮草 | 1959 | 小津安二郎 | 2025.07.01 | ⭐⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1297841/)|[夸克](https://pan.quark.cn/s/3ab6cc9a1901#/list/share)|
+| 血色将至 | 2007 | 保罗·托马斯·安德森 | 2025.07.01 | ⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1945780/)|[夸克](https://pan.quark.cn/s/8f5200ef7589)|
 ---
