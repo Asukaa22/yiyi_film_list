@@ -1,8 +1,7 @@
 # yiyi_film_list
-My personal film list
 ##  我的近期片单
 
-| 名称 | 年份 | 观影日期 | 我的评分 | 豆瓣链接 | 夸克链接 |
-|------|------|----------|----------|----------|----------|
-| 唐人街 Chinatown | 1974 | 2025.7.2 | ⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1293889/) | [夸克](https://pan.quark.cn/s/3b669e827c7a#/list/share) |
+| 名称 | 年份 | 导演 | 观影日期 | 我的评分 | 豆瓣链接 | 夸克链接 |
+|------|------| ------ |----------|----------|----------|----------|
+| 唐人街 Chinatown | 1974 | 罗曼·波兰斯基 | 2025.7.2 | ⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1293889/) | [夸克](https://pan.quark.cn/s/3b669e827c7a#/list/share) |
 ---
