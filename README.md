@@ -1,7 +1,9 @@
 # yiyi_film_list
 ##  我的近期片单
+不知道看什么的时候欢迎来看看我的片单，都附夸克中字链接，链接失效请联系我
 
 | 名称 | 年份 | 导演 | 观影日期 | 我的评分 | 豆瓣链接 | 夸克链接 |
 |------|------| ------ |----------|----------|----------|----------|
-| 唐人街 Chinatown | 1974 | 罗曼·波兰斯基 | 2025.7.2 | ⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1293889/) | [夸克](https://pan.quark.cn/s/3b669e827c7a#/list/share) |
+| 唐人街 | 1974 | 罗曼·波兰斯基 | 2025.07.02 | ⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1293889/) | [夸克](https://pan.quark.cn/s/3b669e827c7a#/list/share) |
+| 浮草 | 1959 | 小津安二朗 | 2025.07.01 | ⭐⭐⭐⭐ | [豆瓣]（https://movie.douban.com/subject/1297841/）|[夸克](https://pan.quark.cn/s/3ab6cc9a1901#/list/share)|
 ---
