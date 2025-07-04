@@ -5,7 +5,7 @@
 
 | 名称 | 年份 | 导演 | 观影日期 | 我的评分 | 豆瓣链接 | 夸克链接 |
 |---|---| --- |---|---|---|---|
-| 遗传厄运 | 2018 | 阿里·艾斯特 |  | ⭐⭐ | [豆瓣](https://movie.douban.com/subject/27621727/) | [阿里](https://www.alipan.com/s/WsWPahD9yRS) |
+| 遗传厄运 | 2018 | 阿里·艾斯特 | 2025.07.04 | ⭐⭐ | [豆瓣](https://movie.douban.com/subject/27621727/) | [阿里](https://www.alipan.com/s/WsWPahD9yRS) |
 | 慕德家一夜 | 1969 | 埃里克·侯麦 |  |  | [豆瓣](https://movie.douban.com/subject/1296283/) | [夸克](https://pan.quark.cn/s/eae10a93406c#/list/share) |
 | 女友的男友 | 1987 | 埃里克·侯麦 | 2025.07.02 | ⭐⭐⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1293776/) | [夸克](https://pan.quark.cn/s/c73368417af1#/list/share) |
 | 唐人街 | 1974 | 罗曼·波兰斯基 | 2025.07.02 | ⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1293889/) | [夸克](https://pan.quark.cn/s/3b669e827c7a#/list/share) |
