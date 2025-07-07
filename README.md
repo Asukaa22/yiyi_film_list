@@ -5,6 +5,7 @@
 
 | 名称 | 年份 | 导演 | 观影日期 | 我的评分 | 豆瓣链接 | 网盘链接 |
 |---|---| --- |---|---|---|---|
+| 秋天的故事| 1998 | 埃里克·侯麦 | 2025 |  | [豆瓣](https://movie.douban.com/subject/1294140/) | [夸克](https://pan.quark.cn/s/8e8a63f438c9#/list/share) |
 | 克莱尔的膝盖 | 1970 | 埃里克·侯麦 | 2025.07. |  | [豆瓣](https://movie.douban.com/subject/1294915/) | [夸克](https://pan.quark.cn/s/b7dc8e922a5d#/list/share) |
 | 双姝奇缘 | 1987 | 埃里克·侯麦 | 2025.07.06 | ⭐⭐⭐⭐ | [豆瓣](https://movie.douban.com/subject/1421309/) | [夸克](https://pan.quark.cn/s/70c1d62816b8#/list/share) |
 | 遗传厄运 | 2018 | 阿里·艾斯特 | 2025.07.04 | ⭐⭐ | [豆瓣](https://movie.douban.com/subject/27621727/) | [阿里](https://www.alipan.com/s/WsWPahD9yRS) |
